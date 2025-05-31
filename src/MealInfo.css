@@ -1,0 +1,16 @@
+.info-container {
+    background-color: gold;
+    height: 100%; /* OR use 600px if that's your intended height */
+    background-size: cover;
+}
+
+.meal-image {
+    height: 500px;
+    width: 500px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border:brown,1px,solid;
+}
+.info-card{
+    padding:50px
+}

@@ -1,0 +1,30 @@
+
+
+.heading{
+    color:gold;
+    font-weight: bold;
+}
+.main-container{
+    margin: 40px;
+    
+}
+.center{
+  margin: 0;
+  font-family: sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1470&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white; 
+}
+
+    .custom-input {
+  width: 500px;
+  height: 40px;
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+

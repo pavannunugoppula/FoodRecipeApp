@@ -1,0 +1,12 @@
+.image{
+    height:300px;
+    width:400px;
+    border-top-right-radius: 20px ;
+    border-bottom-left-radius: 20px;
+    border: chocolate,2px,solid;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px;
+}
